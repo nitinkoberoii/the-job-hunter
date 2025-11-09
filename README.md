@@ -7,7 +7,8 @@ It runs daily, scrapes LinkedIn for fresh jobs, evaluates them using **Google Ge
 
 ## 🧠 Overview
 
-![Workflow Screenshot](<![Workflow](image.png)>)
+**Workflow:**
+<img width="1756" height="783" alt="Screenshot 2025-10-30 170758" src="https://github.com/user-attachments/assets/7218b48f-1192-47a8-923d-2038b0279401" />
 
 🎥 **Watch the video walkthrough:** [Google Drive Video Link](https://drive.google.com/file/d/1cdOf60Nj9X1pxR84WCJPxm2G3J0LK2iT/view?usp=sharing)
 
